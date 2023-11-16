@@ -23,7 +23,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>JenkinsExampleProject.JenkinsSample1</mainClass>
+							<mainClass>PackageNew1.JenkinsSample1</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
